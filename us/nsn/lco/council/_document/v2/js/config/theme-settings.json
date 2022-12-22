@@ -3,7 +3,7 @@
   "themeVersion": "v2",
   "themeType": "custom",
   "themeName": "custom",
-  "themeId": "us/nsn/lco/council",
+  "themeId": "/us/nsn/lco/council",
   "style": {
     "namespaceSuffix": "lco-nsn"
   },
