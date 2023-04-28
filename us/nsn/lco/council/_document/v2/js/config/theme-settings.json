@@ -1,5 +1,5 @@
 {
-  "clientVersion": "2.54.3",
+  "clientVersion": "2.57.1",
   "themeVersion": "v2",
   "themeType": "custom",
   "themeName": "custom",
@@ -16,7 +16,8 @@
       "image": "/images/logo/logo.png",
       "srcset": [
         "/images/logo/logo.png 1x",
-        "/images/logo/logo@2x.png 2x"
+        "/images/logo/logo@2x.png 2x",
+        "/images/logo/logo@3x.png 3x"
       ]
     },
     "footer": {
